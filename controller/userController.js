@@ -23,6 +23,6 @@ const pegarDados = async (req, res) => {
     
     }
 
-
+//constante p/ pegar os dados cadastrados
 
 module.exports = { createUser, pegarDados };
